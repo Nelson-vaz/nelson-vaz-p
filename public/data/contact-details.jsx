@@ -6,8 +6,8 @@ const contactDetails = [
   {
     id: 1,
     type: "Email",
-    value: "nelsonvaz511.com",
-    link: "mailto:nelsonvaz511.com",
+    value: "nelsonvaz511@gmail.com",
+    link: "mailto:nelsonvaz511@gmail.com",
     icon: MdEmail,
   },
   {
