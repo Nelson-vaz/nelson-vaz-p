@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://ajay-duraisamy.vercel.app/
+Host: https://nelson-vaz-p.vercel.app/
 
 # Sitemaps
-Sitemap: https://ajay-duraisamy.vercel.app/sitemap.xml
+Sitemap: https://nelson-vaz-p.vercel.app/sitemap.xml

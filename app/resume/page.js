@@ -4,12 +4,12 @@ export const metadata = {
   description:
     "Explore the professional resume of Nelson Vaz, a passionate Embedded Firmware Developer.",
   robots: "index, follow",
-  canonical: "https://ajay-duraisamy.vercel.app/resume",
+  canonical: "https://nelson-vaz-p.vercel.app/resume",
   openGraph: {
     "@context": "https://schema.org",
     "@type": "WebPage",
     name: "Resume",
-    url: "https://ajay-duraisamy.vercel.app/resume",
+    url: "https://nelson-vaz-p.vercel.app/resume",
     
     description:
       "Explore the professional resume of Nelson Vaz, a passionate Embedded Firmware Developer.",

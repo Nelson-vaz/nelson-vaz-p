@@ -16,18 +16,18 @@ export const metadata = {
     "Nelson Vaz, Embedded Firmware Developer, IoT Engineer, Embedded Systems, C Programming, C++, Python, ARM Cortex, Microcontroller, Firmware Development, Hardware Programming",
   author: "Nelson Vaz",
   robots: "index, follow",
-  canonical: "https://nelsonvaz.vercel.app",
+  canonical: "https://nelson-vaz-p.vercel.app",
   openGraph: {
     ...openGraphImage,
     title: "Nelson Vaz | Embedded Firmware Developer & IoT Engineer",
     type: "website",
-    url: "https://nelsonvaz.vercel.app/",
+    url: "https://nelson-vaz-p.vercel.app/",
     description:
       "Nelson Vaz is an Embedded Firmware Developer skilled in C, C++, Python, and ARM architectures. View his professional portfolio to see his projects in IoT, embedded systems, and hardware programming.",
     site_name: "Nelson Vaz Portfolio",
     images: [
       {
-        url: "https://nelsonvaz.vercel.app/img/ogImage.webp",
+        url: "https://nelson-vaz-p.vercel.app/img/ogImage.webp",
         width: 1200,
         height: 630,
         alt: "Nelson Vaz | Embedded Firmware Developer Portfolio",
@@ -40,7 +40,7 @@ export const metadata = {
     title: "Nelson Vaz | Embedded Firmware Developer & IoT Engineer",
     description:
       "Discover the professional portfolio of Nelson Vaz — an Embedded Firmware Developer focused on embedded systems, IoT, and hardware programming with C, C++, and ARM.",
-    image: "https://nelsonvaz.vercel.app/img/ogImage.webp",
+    image: "https://nelson-vaz-p.vercel.app/img/ogImage.webp",
   },
 };
 
